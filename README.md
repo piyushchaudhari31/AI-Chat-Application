@@ -5,9 +5,9 @@ It allows users to chat with an AI bot and interactive interface powered by Sock
 <ul>
 <li>Real-Time Messaging using Socket.IO</li>
 
-<li>AI-Powered Responses from an integrated AI backend</li>
+<li>AI-Powered Responses from an AI backend</li>
 
-<li>Modern Frontend UI for smooth chat experience</li>
+<li>Modern Frontend UI for chat Application</li>
 
 <li>Full Stack Architecture (Frontend + Backend)</li>
 
