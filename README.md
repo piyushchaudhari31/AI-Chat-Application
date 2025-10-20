@@ -18,7 +18,7 @@ It allows users to chat with an AI bot and interactive interface powered by Sock
 
 <ul>
   <li>HTML, CSS, JavaScript</li>
-  <li>React.js / Vanilla JS (depending on your setup)</li>
+  <li>React.js</li>
   <li>Socket.IO Client</li>
   
 </ul>
